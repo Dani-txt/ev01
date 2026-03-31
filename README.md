@@ -44,3 +44,7 @@
 - todo cambio en produccion debe ser mediante pullrequest
 
 - verificar funcionamiento del codigo antes de ir a produccion
+
+# GitHub Actions
+
+- Se creó un yml que automatiza un proceso de verificación cuando se hacen push en develop y pull request en main. 
